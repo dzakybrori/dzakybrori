@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Dzaky Brori
 #### Design and Development
-![Design and Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Design and Development](https://github.com/dzakybrori/dzakybrori/blob/main/images/banner.png)
 
 I currently focus on Mobile Development(Flutter and Android). Always interested about learning languages and frameworks like vue, svelte, tailwind css, as well as work in Wordpress.
 
